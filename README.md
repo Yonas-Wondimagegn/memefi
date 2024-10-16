@@ -1,45 +1,15 @@
-# MEMEFI BOT - REQUIRES A PROXY TO USE
+# MEMEFI BOT 
 
-memefi bot automation for memefi miniapp https://t.me/memefi_coin_bot?start=r_6fd61f8833 which has quite complete features, made more concise and readable for development, taken from the original repository owned by 💘 [adearmanwijaya](https://github.com/adearmanwijaya).
-
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
-
-## Features
 
 - Multi account support.
-- Configurable settings via `configs.json`.
 - Auto tap tap `AUTO ON`.
 - Auto Use Free Daily Booster Energy.
 - Auto Use Free Daily Turbo Booster.
 - Semi Auto Complete Daily Combo.
 - Crazy Damage / God Mode (adearmanwijaya).
-- Crazy `min and max Damage` Configurable via `configs.json`.
 
-" Crazy Damage / God Mode allows you to create as many force hit values as possible when activating the turbo booster, which will make the level in the memefi game rise to the top level faster. "
-====================================================
 
-## Installation
 
-### Prerequisites
-Before installing and running this project, make sure you have the following prerequisites:
-- Python 3 version 1.0.1+ = Python 3.10+
-- Other required dependencies
-
-To get started, clone this repository and install the required dependencies:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/jawikas/memefi-bot.git
    cd memefi-bot
    ```
 
@@ -124,8 +94,3 @@ python main.py
 ## License
 This project is licensed under the `MIT License` - see the LICENSE file for details.
 
-## Contact
-For any questions or issues, please open an issue on GitHub or contact me at [ https://t.me/itsjaw_real ]..
-
-## Thanks to
-Adearmanwijaya - https://github.com/adearmanwijaya
